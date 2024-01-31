@@ -38,7 +38,7 @@ I am a committed Software Engineer & Web Developer based in England.
 
 ---
 
-### 🧰 &nbsp; Languages and Tools :
+### 🧰 &nbsp; Tools :
 
 <p>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="60" height="60" /> &nbsp;
