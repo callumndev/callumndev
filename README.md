@@ -15,8 +15,8 @@ I am a committed Software Engineer & Web Developer based in England.
 
 <p>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original-wordmark.svg" title="java" alt="java" width="60" height="60" /> &nbsp;
+	<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original-wordmark.svg" title="java" alt="java" width="60" height="60" /> &nbsp;
 	<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" width="60" height="60" /> &nbsp;
-	<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="60" height="60" /> &nbsp;
 	<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="60" height="60" /> &nbsp;
 	<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/lua/lua-original-wordmark.svg" title="lua" alt="lua" width="60" height="60" /> &nbsp;
 	<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/php/php-original.svg" title="php" alt="php" width="60" height="60" /> &nbsp;
@@ -24,6 +24,7 @@ I am a committed Software Engineer & Web Developer based in England.
 	<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original-wordmark.svg" title="react" alt="react" width="60" height="60" /> &nbsp;
 	<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nextjs/nextjs-original-wordmark.svg" title="nextjs" alt="nextjs" width="60" height="60" /> &nbsp;
 	<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-plain-wordmark.svg" title="html5" alt="html5" width="60" height="60" /> &nbsp;
+	<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="60" height="60" /> &nbsp;
 	<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-plain-wordmark.svg" title="css3" alt="css3" width="60" height="60" /> &nbsp;
 	<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwindcss" alt="tailwindcss" width="60" height="60" /> &nbsp;
 	<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jquery/jquery-plain-wordmark.svg" title="jquery" alt="jquery" width="60" height="60" /> &nbsp;
